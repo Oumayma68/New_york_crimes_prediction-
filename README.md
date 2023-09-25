@@ -7,6 +7,9 @@ We went through different steps and made use of different techniques to realize 
 * Visualising data 
 * Model selection and testing
 * Web interface development
+
+
 [![image](https://www.linkpicture.com/q/d1_3.png)](https://www.linkpicture.com/view.php?img=LPic63bd58320cf41929106800)
+
 [![image](https://www.linkpicture.com/q/d2_5.png)](https://www.linkpicture.com/view.php?img=LPic63bd5866b6dd51089152295)
 
